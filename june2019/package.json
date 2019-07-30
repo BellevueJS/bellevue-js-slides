@@ -1,0 +1,19 @@
+{
+  "name": "bellevue-js-slides-june-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck june2019.mdx",
+    "build": "mdx-deck build june2019.mdx",
+    "help": "mdx-deck"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^2.4.0"
+  },
+  "dependencies": {
+    "file-loader": "^4.0.0"
+  }
+}
