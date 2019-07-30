@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mdx-deck": "^2.4.0"
+    "mdx-deck": "^3.0.8"
   },
   "dependencies": {
     "file-loader": "^4.0.0"
